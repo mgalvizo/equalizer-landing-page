@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-sass-flexbox-and-webpack-bundler-O8Ke2AcmpP)
 -   [Live Site URL](https://mgalvizo.github.io/equalizer-landing-page/)
 
 ## My process
